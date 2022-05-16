@@ -1,12 +1,13 @@
-# THE NATIONAL IDENTIFICATION AND
-# REGISTRATION ACT, 2021
+# THE NATIONAL IDENTIFICATION AND REGISTRATION ACT, 2021
 (Act of 2021)
-ARRANGEMENT OF SECTIONS
+
+## ARRANGEMENT OF SECTIONS
+
 ## PART I—Preliminary
- 	1. [Short title and commencement.](/1)
-  2. Interpretation.
-  3. Objects.
-  4. Application.
+	1. [Short title and commencement.](https://duckduckgo.com)
+	2. Interpretation.
+	3. Objects.
+	4. Application.
 ## PART II—The National Identification and Registration Authority
   5. The National Identification and Registration Authority.
   6. Executive Director.
