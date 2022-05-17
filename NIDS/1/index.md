@@ -16,5 +16,5 @@ the Minister by order published in the Gazette, and different days may
 be appointed under this section in respect of different provisions of this
 Act.
 Short title
-and commencement.
+and commencement.
 A
