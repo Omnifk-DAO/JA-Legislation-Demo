@@ -4,10 +4,10 @@
 ## ARRANGEMENT OF SECTIONS
 
 ## PART I—Preliminary
-	1. [Short title and commencement.](https://duckduckgo.com)
-	2. Interpretation.
-	3. Objects.
-	4. Application.
+1. [Short title and commencement.](/1)
+2. [Interpretation.](/2)
+3. [Objects.](/3)
+4. [Application.](/4)
 ## PART II—The National Identification and Registration Authority
   5. The National Identification and Registration Authority.
   6. Executive Director.
