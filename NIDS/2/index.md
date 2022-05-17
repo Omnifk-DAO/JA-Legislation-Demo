@@ -9,24 +9,23 @@ Card is proved;
 : means the National Identification and Registration
 Authority established under section 5;
 “Chairperson”
-:, in relation to the Authority, means the chairperson
-of the Authority;
-“civil registration” means the inclusion of information in—
+:, in relation to the Authority, means the chairperson of the Authority;
+“civil registration”
+: means the inclusion of information in—
 (a) a civil status register under the Registration (Births
 and Deaths) Act;
 (b) the Adopted Children Register under the Children
 (Adoption of) Act; or
-(c) another register required to be kept by the
-Registrar-General under any other law;
-“Civil Registration Databases” means the databases established
-pursuant to section 9(1)(b);
+(c) another register required to be kept by the Registrar-General under any other law;
+
+“Civil Registration Databases”
+: means the databases established pursuant to section 9(1)(b);
 “enrolled individual”
 : means an individual whose identity information is stored in the National Identification Databases;
 “enrolment”
-: means the collection of identity information for storage
-in the National Identification Databases;
-“Executive Director” means the Executive Director of the Authority,
-provided for in section 6;
+: means the collection of identity information for storage in the National Identification Databases;
+“Executive Director”
+: means the Executive Director of the Authority, provided for in section 6;
 “functions”, unless the context otherwise requires, includes powers
 and duties;
 “identity information” means the biographic, biometric or numerical
