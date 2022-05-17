@@ -3,7 +3,7 @@
 
 ## ARRANGEMENT OF SECTIONS
 
-## PART I—Preliminary
+## [PART I—Preliminary]()
 1. [Short title and commencement.](1/index.md)
 2. [Interpretation.](2/index.md)
 3. [Objects.](/3)
