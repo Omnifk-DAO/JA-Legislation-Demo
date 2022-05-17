@@ -3,7 +3,8 @@
 
 ## ARRANGEMENT OF SECTIONS
 
-## [PART I—Preliminary]()
+## PART I — Preliminary 
+[Discussions](https://github.com/Omnifk-DAO/JA-Legislation-Demo/discussions/categories/nids?discussions_q=label%3APreliminary+category%3ANIDS)
 1. [Short title and commencement.](1/index.md)
 2. [Interpretation.](2/index.md)
 3. [Objects.](/3)
