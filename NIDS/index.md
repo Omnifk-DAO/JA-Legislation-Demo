@@ -4,7 +4,7 @@
 ## ARRANGEMENT OF SECTIONS
 
 ## PART I—Preliminary
-1. [Short title and commencement.](/1/index.md)
+1. [Short title and commencement.](1/index.md)
 2. [Interpretation.](/2)
 3. [Objects.](/3)
 4. [Application.](/4)
