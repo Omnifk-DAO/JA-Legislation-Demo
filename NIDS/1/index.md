@@ -18,3 +18,19 @@ Act.
 Short title
 and commencement.
 A
+
+<script src="https://giscus.app/client.js"
+        data-repo="Omnifk-DAO/JA-Legislation-Demo"
+        data-repo-id="R_kgDOHWIfxA"
+        data-category="NIDS"
+        data-category-id="DIC_kwDOHWIfxM4CPJCk"
+        data-mapping="title"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
